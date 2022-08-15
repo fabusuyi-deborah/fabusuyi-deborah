@@ -6,7 +6,7 @@ A Junior Frontend developer and a budding Technical Writer
 
 I've been learning to code for less than a year now. I'm looking forward to collaborating on projects and looking for internship programs to improve my skills.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Ilorin,Nigeria
 * ✉️  You can contact me at [fabusuyideborah03@gmail.com](mailto:fabusuyideborah03@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting projects(Html, Css, JavaScript)
