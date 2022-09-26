@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deborah Fabusuyi
 ========================================================================================================================================
 
-A Junior Frontend developer and a budding Technical Writer
+A Junior Frontend developer and a Technical Writer
 ----------------------------------------------------------
 
 I've been learning to code for less than a year now. I'm looking forward to collaborating on projects and looking for internship programs to improve my skills.
