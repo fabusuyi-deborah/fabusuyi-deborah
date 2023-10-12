@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Junior Frontend developer and a Technical Writer
 ----------------------------------------------------------
 
-I've been learning to code for less than a year now. I'm looking forward to collaborating on projects and looking for internship programs to improve my skills.
+I've been learning to code for a while now. I'm looking forward to collaborating on projects and looking for internship programs to improve my skills.
 
 * 🌍  I'm based in Ilorin,Nigeria
 * ✉️  You can contact me at [fabusuyideborah03@gmail.com](mailto:fabusuyideborah03@gmail.com)
