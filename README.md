@@ -1,20 +1,15 @@
 # Hi 👋🏾, I'm Fabusuyi Deborah 
 
-- 🌱 I'm a Frontend Developer on a mission to **build, grow, and give back**  
-- 👩🏾‍💻 Currently working with **React**, **Tailwind CSS**, and learning **TypeScript** through real-world projects  
-- 🛠️ Building: **put-a-sign** – a document signing platform    
-- 💡 Exploring Vue, system design, and how to become a confident **Developer Advocate**
-
-### ✍🏾 Writing & Building  
-- 📘 Blog: *From JavaScript to TypeScript – What I'm Learning*  
-- 🛠 Projects focused on solving real-world problems  
-- 🌍 Learning in public and growing every day
-
-### 🌟 A Little About Me  
-- 📚 I love reading — especially books that stretch my thinking  
-- ♟️ Currently learning how to play chess (and lose gracefully 😅)  
-- 🎤 Inspired by developer advocates who use their voice to teach and uplift others  
-- ✨ Passionate about building tech that feels simple and clear
+🌱 I'm a Frontend Developer on a mission to **build, grow, and give back**  
+👩🏾‍💻 Currently working with **React**, **Tailwind CSS**, and learning **TypeScript** through real-world projects  
+🛠️ Building: **put-a-sign** – a document signing platform    
+💡 Exploring Vue, system design, and how to become a confident **Developer Advocate**
+🛠 Building projects focused on solving real-world problems  
+🌍 Learning in public and growing every day
+📚 I love reading — especially books that stretch my thinking  
+♟️ Currently learning how to play chess (and lose gracefully 😅)  
+🎤 Inspired by developer advocates who use their voice to teach and uplift others  
+✨ Passionate about building tech that feels simple and clear
 
 ---
 
@@ -28,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
---- 
+---
 
 ### Badges
 
