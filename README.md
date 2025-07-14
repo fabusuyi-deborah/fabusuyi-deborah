@@ -11,9 +11,7 @@
 🎤 Inspired by developer advocates who use their voice to teach and uplift others  
 ✨ Passionate about building tech that feels simple and clear
 
----
-
-### 🔧 Tech Stack  
+### Tech Stack  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,11 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+### Badge
 <a href="http://www.github.com/fabusuyi-deborah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabusuyi-deborah&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
