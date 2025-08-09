@@ -7,6 +7,7 @@
 
 🛠 Building projects focused on solving real-world problems  
 🌍 Learning in public and growing every day
+
 📚 I love reading — especially books that stretch my thinking  
 ♟️ Currently learning how to play chess (and lose gracefully 😅)  
 🎤 Inspired by developer advocates who use their voice to teach and uplift others  
