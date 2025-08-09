@@ -4,6 +4,7 @@
 👩🏾‍💻 Currently working with **React**, **Nextjs**, **Tailwind CSS**, and learning **TypeScript** through real-world projects  
 🛠️ Building: **put-a-sign** – a document signing platform    
 💡 Exploring Vue, system design, and how to become a confident **Developer Advocate**
+
 🛠 Building projects focused on solving real-world problems  
 🌍 Learning in public and growing every day
 📚 I love reading — especially books that stretch my thinking  
