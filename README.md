@@ -3,7 +3,7 @@
 🌱 I'm a Frontend Developer on a mission to **build, grow, and give back**  
 👩🏾‍💻 Currently working with **React**, **Nextjs**, **Tailwind CSS**, and learning **TypeScript** through real-world projects  
 🛠️ Building: **put-a-sign** – a document signing platform    
-💡 Exploring Vue, system design, and how to become a confident **Developer Advocate**
+💡 Exploring React, system design, and how to become a confident **Developer Advocate**
 
 🛠 Building projects focused on solving real-world problems  
 🌍 Learning in public and growing every day
@@ -11,7 +11,7 @@
 📚 I love reading — especially books that stretch my thinking  
 ♟️ Currently learning how to play chess (and lose gracefully 😅)  
 🎤 Inspired by developer advocates who use their voice to teach and uplift others  
-✨ Passionate about building tech that feels simple and clear
+✨ Passionate about building real-world projects
 
 ### Tech Stack  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
