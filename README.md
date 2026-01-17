@@ -5,4 +5,5 @@ I’m a Frontend Developer focused on building clean, usable, real-world web int
 ## Tech Stack  
 - Frontend: React, Next.js, Tailwind CSS, Framer Motion
 - Languages: JavaScript (ES6+), TypeScript
-- Tools: Git, GitHub, REST APIs
+- Tools: Git, GitHub, Vs Code, Vercel, NPM, Vite
+- Others: Rest APIs, Supabase, CI/CD Basics
